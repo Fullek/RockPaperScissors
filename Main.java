@@ -4,7 +4,6 @@ public class Main {
 
         Menus menus = new Menus();
         RepeatProgram repeat = new RepeatProgram();
-        GetSet getSet = new GetSet();
 
         System.out.println("Let's play Rock, Paper, Scissors game!");
 
