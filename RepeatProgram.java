@@ -4,8 +4,8 @@ public class RepeatProgram {
 
     public boolean exit = true;
     
-    private final YES = 1;
-    private final NO = 2;
+    public final YES = 1;
+    public final NO = 2;
 
     public void continueOrNot() {
 
