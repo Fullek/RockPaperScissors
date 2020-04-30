@@ -1,4 +1,4 @@
-public class GetSet {
+public class InputManager {
 
     private String firstInput;
     private String secondInput;
@@ -18,5 +18,5 @@ public class GetSet {
     public void setSecondInput(String secondInput) {
         this.secondInput = secondInput;
     }
-    
+
 }
